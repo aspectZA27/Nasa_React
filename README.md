@@ -1,4 +1,4 @@
-# Spacial Xplorer 🚀
+# AstroLens 🚀
 
 A React web app to explore NASA's Astronomy Picture of the Day (APOD).  
 Search for APOD images by date, view today's image, and enjoy a space-themed UI!
@@ -13,11 +13,6 @@ Search for APOD images by date, view today's image, and enjoy a space-themed UI!
 ## Demo
 
 [Live on GitHub Pages](https://apsectZA27.github.io/Nasa_React)
-
-## Screenshots
-
-![screenshot](https://apod.nasa.gov/apod/image/2406/M16HSTcolVincent_960.jpg)
-*Example APOD image (replace with your own screenshot if you like)*
 
 ## Getting Started
 
