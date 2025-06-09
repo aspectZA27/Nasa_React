@@ -12,7 +12,7 @@ Search for APOD images by date, view today's image, and enjoy a space-themed UI!
 
 ## Demo
 
-[Live on GitHub Pages](https://apsectZA27.github.io/Nasa_React)
+[Live on GitHub Pages](https://aspectZA27.github.io/Nasa_React)
 
 ## Getting Started
 
