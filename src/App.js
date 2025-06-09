@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <h1 className="heading">Spacial Xplorer</h1>
+        <h1 className="heading">AstroLens</h1>
         <nav className="nav">
           <Link to="/">Home</Link> | <Link to="/search">Search APOD</Link> |{" "}
           <Link to="/apod">APOD</Link>

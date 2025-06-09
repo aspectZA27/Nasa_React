@@ -3,7 +3,7 @@ import React from "react";
 function Home() {
   return (
     <div className="Home">
-      <h1>Welcome to Spacial Xplorer</h1>
+      <h1>Welcome to AstroLens</h1>
       <p>
         Explore the wonders of space with our Astronomy Picture of the Day
         (APOD) feature.
