@@ -8,7 +8,7 @@ function Home() {
         Explore the wonders of space with our Astronomy Picture of the Day
         (APOD) feature.
       </p>
-      <p>Use the search feature to find images from specific dates.</p>
+      <p>Use the search feature to find images from specific dates!</p>
       <p>Enjoy your journey through the cosmos!</p>
       <br />
       <h2>How to Use:</h2>
